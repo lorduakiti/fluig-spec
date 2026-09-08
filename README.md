@@ -25,7 +25,7 @@ claude plugin update fluigspec
   
 > Override any agent locally — drop a file in `.claude/agents/<category>/<agent-name>.md` and it takes precedence over the plugin version. See Agent Overrides.
 
-### Alternative install methods  
+### Métodos de Instalação Alternativa  
 #### Teste Local (sem necessidade de instalação)  
 ```bash
 git clone https://github.com/lorduakiti/fluigspec.git
